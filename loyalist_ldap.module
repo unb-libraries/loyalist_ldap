@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Loyalist LDAP feature.
+ */
+
+include_once 'loyalist_ldap.features.inc';
