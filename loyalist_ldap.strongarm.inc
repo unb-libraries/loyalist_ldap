@@ -68,7 +68,7 @@ function loyalist_ldap_strongarm() {
     'orphanedCheckQty' => '100',
     'userConflictResolve' => 2,
     'manualAccountConflict' => '3',
-    'acctCreation' => 1,
+    'acctCreation' => 4,
     'ldapUserSynchMappings' => array(
       1 => array(
         '[field.field_real_name]' => array(
